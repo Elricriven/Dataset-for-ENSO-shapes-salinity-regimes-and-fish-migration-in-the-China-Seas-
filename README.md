@@ -1,4 +1,4 @@
-# Dataset-for-ENSO-shapes-salinity-regimes-and-fish-migration-in-the-China-Seas-
+# Dataset-for-ENSO-shapes-salinity-regimes-and-fish-migration-in-the-China-Seas
 This is the source data for figures in "ENSO shapes salinity regimes and fish migration in the China Seas"
 
 All the data can be read and plotted using software such as MATLAB, while the rights to interpret and own the data remain with the Ocean Carbon Group at Xiamen University. For any usage-related issues, please contact gzhwang@xmu.edu.cn or wangzhixuan@ust.hk.
